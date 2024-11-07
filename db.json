@@ -1,0 +1,46 @@
+{
+  "bibliothèque": "Ma bibliothèque",
+  "date": "14-11-2024",
+  "livres": [
+    {
+      "id": 100,
+      "date": "01-10-2020",
+      "domaine": "informatique",
+      "titre": "Programmation Java",
+      "resume": "Java est un langage de programmation...",
+      "image": "https://example.com/java-book.jpg"
+    },
+    {
+      "id": 101,
+      "date": "01-01-2022",
+      "domaine": "mécanique",
+      "titre": "Roues dentées",
+      "resume": "Les roues dentées sont utilisées dans les systèmes mécaniques...",
+      "image": "https://example.com/gears-book.jpg"
+    },
+    {
+      "id": "d841",
+      "titre": "Language c",
+      "domaine": "Informatique",
+      "resume": "Language c est un langage de programmation...",
+      "image": "https://www.google.com/search?q=image+livre&sca_esv=140d6f1ac97950c1&hl=fr&sxsrf=ADLYWIKtcFEEr-p8zANS-ak9RVBO984CqQ%3A1730992116454&source=hp&ei=9NcsZ-i-GayDhbIP59is-Aw&iflsig=AL9hbdgAAAAAZyzmBIGkZk9bPYZGtIgihvd4owR7evAy&oq=image+&gs_lp=Egdnd3Mtd2l6IgZpbWFnZSAqAggAMgoQIxiABBgnGIoFMgoQIxiABBgnGIoFMgoQIxiABBgnGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgsQABiABBixAxiDATILEAAYgAQYsQMYgwEyBRAAGIAEMgUQABiABDILEAAYgAQYsQMYgwFImxZQAFjeCXAAeACQAQCYAY4BoAHkBaoBAzAuNrgBAcgBAPgBAZgCBqAC9AXCAhAQABiABBixAxiDARgUGIcCmAMAkgcDMC42oAftMg&sclient=gws-wiz#vhid=3OMV62-gYqTFDM&vssid=_FNgsZ-KlFMilkdUPzJ3viAQ_39",
+      "date": "2024-11-07T15:26:19.388Z"
+    },
+    {
+      "id": "1798",
+      "titre": "",
+      "domaine": "",
+      "resume": "",
+      "image": "",
+      "date": "2024-11-07T15:26:32.944Z"
+    },
+    {
+      "id": "ec0c",
+      "titre": "Langage c",
+      "domaine": "Informatique",
+      "resume": "langage c est un language de programation",
+      "image": "\"https://example.com/java-book.jpg",
+      "date": "2024-11-07T15:27:33.697Z"
+    }
+  ]
+}
